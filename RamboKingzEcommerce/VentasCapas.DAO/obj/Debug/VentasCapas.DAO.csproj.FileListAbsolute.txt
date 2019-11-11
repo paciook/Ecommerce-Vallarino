@@ -1,0 +1,39 @@
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Users\fpaci\Desktop\Ventas Capas Pacio\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojAssemblyReference.cache
+C:\Users\fpaci\Desktop\Ventas Capas Pacio\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CoreCompileInputs.cache
+C:\Users\fpaci\Desktop\Ventas Capas Pacio\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\fpaci\Desktop\Ventas Capas Pacio\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Users\fpaci\Desktop\Ventas Capas Pacio\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\fpaci\Desktop\Ventas Capas Pacio\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\fpaci\Desktop\Ventas Capas Pacio\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\fpaci\Desktop\Ventas Capas Pacio\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\fpaci\Desktop\Ventas Capas Pacio\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CopyComplete
+C:\Users\huergo\Desktop\Ventas Capas Pacio\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\huergo\Desktop\Ventas Capas Pacio\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\huergo\Desktop\Ventas Capas Pacio\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\huergo\Desktop\Ventas Capas Pacio\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\huergo\Desktop\Ventas Capas Pacio\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojResolveAssemblyReference.cache
+C:\Users\huergo\Desktop\Ventas Capas Pacio\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\huergo\Desktop\Ventas Capas Pacio\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Users\huergo\Desktop\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Users\huergo\Desktop\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\huergo\Desktop\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Users\huergo\Desktop\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\huergo\Desktop\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojResolveAssemblyReference.cache
+C:\Users\huergo\Desktop\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Users\huergo\Desktop\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojAssemblyReference.cache
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CoreCompileInputs.cache
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CopyComplete
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb

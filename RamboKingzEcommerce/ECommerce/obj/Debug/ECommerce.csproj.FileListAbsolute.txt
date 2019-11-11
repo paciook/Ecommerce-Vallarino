@@ -1,0 +1,12 @@
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\bin\ECommerce.dll.config
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\bin\ECommerce.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\bin\ECommerce.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\obj\Debug\ECommerce.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\ECommerce\obj\Debug\ECommerce.pdb
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\obj\Debug\ECommerce.csprojAssemblyReference.cache
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\obj\Debug\ECommerce.csproj.CoreCompileInputs.cache
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\obj\Debug\ECommerce.dll
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\obj\Debug\ECommerce.pdb
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\bin\ECommerce.dll.config
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\bin\ECommerce.dll
+C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\bin\ECommerce.pdb
