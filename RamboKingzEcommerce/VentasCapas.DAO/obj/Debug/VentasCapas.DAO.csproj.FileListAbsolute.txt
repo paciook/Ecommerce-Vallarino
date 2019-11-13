@@ -46,3 +46,12 @@ C:\Users\fpaci\Documents\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug
 C:\Users\fpaci\Documents\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CopyComplete
 C:\Users\fpaci\Documents\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
 C:\Users\fpaci\Documents\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.dll
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DAO.pdb
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.dll
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\bin\Debug\VentasCapas.DTO.pdb
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csprojAssemblyReference.cache
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CoreCompileInputs.cache
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.csproj.CopyComplete
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.dll
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapas.DAO\obj\Debug\VentasCapas.DAO.pdb

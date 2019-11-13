@@ -57,7 +57,7 @@
                 &nbsp;</div>
                 <br />
                 <div>
-                    <asp:ImageButton ID="btCarrito" runat="server" ImageUrl="~/Img/cart24.png" />
+                    <asp:ImageButton ID="btCarrito" runat="server" ImageUrl="~/Img/cart24.png" OnClick="btCarrito_Click" />
                 </div>
             </div>
         </nav>

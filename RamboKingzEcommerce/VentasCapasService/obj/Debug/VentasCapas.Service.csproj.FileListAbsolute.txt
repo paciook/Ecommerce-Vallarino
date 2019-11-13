@@ -42,3 +42,15 @@ C:\Users\fpaci\Documents\ecommerce\RamboKingzEcommerce\VentasCapasService\obj\De
 C:\Users\fpaci\Documents\ecommerce\RamboKingzEcommerce\VentasCapasService\obj\Debug\VentasCapas.Service.csproj.CopyComplete
 C:\Users\fpaci\Documents\ecommerce\RamboKingzEcommerce\VentasCapasService\obj\Debug\VentasCapasService.dll
 C:\Users\fpaci\Documents\ecommerce\RamboKingzEcommerce\VentasCapasService\obj\Debug\VentasCapasService.pdb
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\bin\VentasCapasService.dll.config
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\bin\VentasCapasService.dll
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\bin\VentasCapasService.pdb
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\bin\VentasCapas.DAO.dll
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\bin\VentasCapas.DTO.dll
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\bin\VentasCapas.DAO.pdb
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\bin\VentasCapas.DTO.pdb
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\obj\Debug\VentasCapas.Service.csprojAssemblyReference.cache
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\obj\Debug\VentasCapas.Service.csproj.CoreCompileInputs.cache
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\obj\Debug\VentasCapas.Service.csproj.CopyComplete
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\obj\Debug\VentasCapasService.dll
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\VentasCapasService\obj\Debug\VentasCapasService.pdb

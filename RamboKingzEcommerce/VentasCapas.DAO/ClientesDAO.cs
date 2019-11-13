@@ -81,12 +81,12 @@ namespace VentasCapas.DAO
 
                 using (SqlCommand cmd = new SqlCommand())
                 {
-                    var list = ReadAll("Where Usuario=" + clientes.Usuario);
+                    var list = ReadAll("Where Usuario='" + clientes.Usuario + "'");
 
                     if (list.Count == 0)
                     {
                         cmd.Connection = conn;
-                        cmd.CommandText = @"INSERT INTO Clientes (Id, Nombre, Direccion, Telefono, Email) 
+                        cmd.CommandText = @"INSERT INTO Clientes (Id, Nombre, Direccion, Telefono, Email, Usuario, Contraseña) 
                                             VALUES ([id],'[nombre]','[direccion]','[telefono]','[email]', '[usuario]', '[contraseña]')";
 
                         int proximoId = DAOHelper.GetNextId("Clientes");

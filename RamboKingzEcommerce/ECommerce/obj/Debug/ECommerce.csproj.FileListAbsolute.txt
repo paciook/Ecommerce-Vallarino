@@ -10,3 +10,10 @@ C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\EComm
 C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\bin\ECommerce.dll.config
 C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\bin\ECommerce.dll
 C:\Colegio\PROYECTO II\Ecommerce\Paciuc y yo\Ecommerce\RamboKingzEcommerce\ECommerce\bin\ECommerce.pdb
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\ECommerce\bin\ECommerce.dll.config
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\ECommerce\bin\ECommerce.dll
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\ECommerce\bin\ECommerce.pdb
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\ECommerce\obj\Debug\ECommerce.csprojAssemblyReference.cache
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\ECommerce\obj\Debug\ECommerce.csproj.CoreCompileInputs.cache
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\ECommerce\obj\Debug\ECommerce.dll
+C:\Colegio\PROYECTO II\ecommerce\RamboKingzEcommerce\ECommerce\obj\Debug\ECommerce.pdb

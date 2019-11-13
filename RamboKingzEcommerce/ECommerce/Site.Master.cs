@@ -19,5 +19,10 @@ namespace ECommerce
             ClientesDTO cliente = (ClientesDTO)this.Page.Session["cliente"];
             lbUser.Text = "Cliente: " + cliente.Nombre.Trim();
         }
+
+        protected void btCarrito_Click(object sender, ImageClickEventArgs e)
+        {
+            Response.Redirect("Carrito.aspx");
+        }
     }
 }

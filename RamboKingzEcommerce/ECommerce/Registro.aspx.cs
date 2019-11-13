@@ -32,14 +32,14 @@ namespace ECommerce
                     return;
                 }
 
-                ClientesDTO cliente = null;
+                ClientesDTO cliente = new ClientesDTO();
                 cliente.Usuario = txUsuario.Text;
                 cliente.Contraseña = txContraseña.Text;
                 cliente.Direccion = txDireccion.Text;
                 cliente.Email = txEmail.Text;
                 cliente.Nombre = txNombre.Text;
                 cliente.Telefono = txTelefono.Text;
-                ws.CrearCuenta(cliente);
+                cliente = ws.CrearCuenta(cliente);
 
                 if (cliente != null)
                 {
