@@ -14,6 +14,12 @@ namespace ECommerce
         protected void Page_Load(object sender, EventArgs e)
         {
             CargarArticulos();
+
+            if (!(IsPostBack)){
+
+                Session.Add("carrito", new List<int>());
+
+            }
         }
 
         protected void btFiltrar_Click(object sender, ImageClickEventArgs e)
@@ -52,6 +58,9 @@ namespace ECommerce
 
             ImageButton btAdd = (ImageButton)sender;
             int id = Convert.ToInt32(btAdd.Attributes["articuloid"]);
+            List<int> Carrito = (List<int>)Session["carrito"];
+            Carrito.Add(id);
+            Session["carrito"] = Carrito;
             lbMsg.Text = "Agregar - ID: " + id.ToString();
         }
 

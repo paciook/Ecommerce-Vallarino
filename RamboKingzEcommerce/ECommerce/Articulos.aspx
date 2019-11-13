@@ -16,10 +16,7 @@
                 <div class="form-inline w-50 text-center">
 
                     <asp:TextBox ID="txFiltro" runat="server" placeholder="Buscar productos..." class="form-control w-75"></asp:TextBox>
-                    <div class="w-25 text-center">
-                        <asp:ImageButton ID="btFiltrar" runat="server" ImageUrl="~/Img/glass32.png" Height="32" Width="32" ImageAlign="Middle" OnClick="btFiltrar_Click" />
-                    </div>
-                </div>
+                    vc</div>
                 <br />
                     <asp:Label ID="lbMsg" runat="server" Text=""></asp:Label>
 
