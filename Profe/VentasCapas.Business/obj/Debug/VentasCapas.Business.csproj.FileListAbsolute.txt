@@ -1,0 +1,29 @@
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.Business\obj\Debug\VentasCapas.Business.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.Business\bin\Debug\VentasCapas.Business.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.Business\bin\Debug\VentasCapas.Business.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.Business\bin\Debug\VentasCapas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.Business\bin\Debug\VentasCapas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.Business\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.Business\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.Business\obj\Debug\VentasCapas.Business.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP2 C#\TP2_VentasCapas\VentasCapas.Business\obj\Debug\VentasCapas.Business.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.Business\bin\Debug\VentasCapas.Business.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.Business\bin\Debug\VentasCapas.Business.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.Business\bin\Debug\VentasCapas.DAO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.Business\bin\Debug\VentasCapas.DTO.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.Business\bin\Debug\VentasCapas.DAO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.Business\bin\Debug\VentasCapas.DTO.pdb
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.Business\obj\Debug\VentasCapas.Business.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.Business\obj\Debug\VentasCapas.Business.dll
+C:\Users\sebas\Dropbox\HUERGO - PROYECTO II\TP4 Ecommerce\VentasCapas.Business\obj\Debug\VentasCapas.Business.pdb
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\bin\Debug\VentasCapas.Business.dll
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\bin\Debug\VentasCapas.Business.pdb
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\bin\Debug\VentasCapas.DAO.dll
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\bin\Debug\VentasCapas.DTO.dll
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\bin\Debug\VentasCapas.DAO.pdb
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\bin\Debug\VentasCapas.DTO.pdb
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\obj\Debug\VentasCapas.Business.csprojAssemblyReference.cache
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\obj\Debug\VentasCapas.Business.csproj.CoreCompileInputs.cache
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\obj\Debug\VentasCapas.Business.csproj.CopyComplete
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\obj\Debug\VentasCapas.Business.dll
+C:\Colegio\PROYECTO II\Ecommerce\Profe\VentasCapas.Business\obj\Debug\VentasCapas.Business.pdb
