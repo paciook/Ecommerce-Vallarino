@@ -40,7 +40,7 @@ namespace VentasCapas.Business
 
         public static void Eliminar(int id)
         {
-            // Tras horas de analicis llegué a la conclusión de que el id siempre va a llegar
+            // Tras horas de analisis llegué a la conclusión de que el id siempre va a llegar
             // a esta instancia siendo un entero, de otra forma el programa crashea al intentar
             // hacer la conversión (Y resolver eso no es algo que esté dentro de mi conocimiento
             // un sábado a las ocho de la mañana
